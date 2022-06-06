@@ -1,0 +1,63 @@
+Compound Assignment With Augmented Subtraction
+
+Like the += operator, -= subtracts a number from a variable.
+
+Convert the assignments for a, b, and c to use the -= operator.
+
+let a = 11;
+let b = 9;
+let c = 3;
+
+// Only change code below this line
+a = a - 6;
+b = b - 15;
+c = c - 1;
+
+Pretty straightforward.
+
+a -= 6;
+b -= 15;
+c -= 1;
+
+Compound Assignment With Augmented Multiplication
+
+The *= operator multiplies a variable by a number.
+
+Convert the assignments for a, b, and c to use the *= operator.
+
+let a = 5;
+let b = 12;
+let c = 4.6;
+
+// Only change code below this line
+a = a * 5;
+b = 3 * b;
+c = c * 10;
+
+Again, all good!
+
+a *= 5;
+b *= 3;
+c *= 10;
+
+Compound Assignment With Augmented Division
+
+The /= operator divides a variable by another number.
+
+Convert the assignments for a, b, and c to use the /= operator.
+
+let a = 48;
+let b = 108;
+let c = 33;
+
+// Only change code below this line
+a = a / 12;
+b = b / 4;
+c = c / 11;
+
+Same as last time:
+
+a /= 12;
+b /= 4;
+c /= 11;
+
